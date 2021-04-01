@@ -9,3 +9,5 @@
 0.0.0.0 lh7.googleusercontent.com
 0.0.0.0 lh8.googleusercontent.com
 0.0.0.0 lh9.googleusercontent.com
+0.0.0.0 alb.reddit.com
+0.0.0.0 watch.redd.it
